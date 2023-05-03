@@ -1,7 +1,7 @@
 # krn-projects
 Various private projects related to KR nation. Work in progress.
 
-Note: The sheet was made in Google sheets and then exported as an Excel file. It can be reopened as a Google sheet in Google docs.
+Note: The order sheets were made in Google sheets and exported as Excel files. They can be reopened as Google sheet files in Google docs.
 
 ## Projects:
 - New order sheet for sittnings (in progress, nearly done)
