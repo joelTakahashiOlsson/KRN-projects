@@ -1,5 +1,5 @@
 # krn-projects
-Various private projects related to KR nation. Work in progress.
+Various private projects related to KR nation, Lund. Work in progress.
 
 Note: The sheet was made in Google sheets and then exported as an Excel file. It can be reopened as a Google sheet in Google docs.
 
