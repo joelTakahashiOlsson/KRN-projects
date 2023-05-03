@@ -1,7 +1,7 @@
-# krn-projects
-Various private projects related to KR nation, Lund. Work in progress.
+# KRN-projects
+Various private projects related to KR nation in Lund. Work in progress.
 
-Note: The order sheets were made in Google sheets and exported as Excel files. They can be reopened as Google sheet files in Google docs.
+Note: The order sheets were made in Google Sheets and exported as Excel files. They can be reopened as Google Sheet files in Google Docs.
 
 ## Projects:
 - New order sheet for sittnings (in progress, nearly done)
