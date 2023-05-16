@@ -6,9 +6,9 @@ Note: The order sheets were made in Google Sheets and exported as Excel files. T
 ## Projects:
 - New order sheet for sittnings (in progress, nearly done)
 - New order sheet for lunches (in utero)
+- Recipe bank for Sittnings (in utero)
 
-## Future ideas: 
-- System for sharing proven recipes & evaluation
+## Future ideas:
+- System for evaluation of Sittnings
 - Scheduling program
-- Complete program for planning of sittnings
 - Web page related
